@@ -1,0 +1,24 @@
+```
+---
+title: "CV"
+---
+
+[Download my CV (PDF)](cv.pdf)
+
+## Education
+- PhD Candidate in Mathematical Biology, Memorial University of Newfoundland (2020–Present)
+- MPhil in Applied Mathematics, KNUST, Ghana (2015–2016)
+- MSc in Mathematical Sciences, AIMS Ghana (2014–2015)
+- BSc in Mathematics, KNUST, Ghana (2009–2013)
+
+## Research Interests
+- Infectious disease modeling
+- Mosquito population dynamics
+- Climate-driven vector control strategies
+- Deterministic and stochastic modeling
+
+## Skills
+- R, Python, LaTeX
+- Sensitivity analysis (PRCC, LHS)
+- Scientific writing & presentations
+```

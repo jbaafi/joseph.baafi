@@ -1,0 +1,14 @@
+```
+---
+title: "Teaching"
+---
+
+I have taught and assisted in undergraduate mathematics and biology courses, including:
+
+- Differential Equations
+- Basic and Applied Statistics
+- R Programming for Biological Sciences
+- Mathematical Methods
+
+I have experience developing instructional materials, assessing student performance, and supporting students with coding and research project development.
+```

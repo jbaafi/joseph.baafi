@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Joseph Baafi",
+    "section": "",
+    "text": "---\ntitle: \"CV\"\n---\n\n[Download my CV (PDF)](cv.pdf)\n\n## Education\n- PhD Candidate in Mathematical Biology, Memorial University of Newfoundland (2020–Present)\n- MPhil in Applied Mathematics, KNUST, Ghana (2015–2016)\n- MSc in Mathematical Sciences, AIMS Ghana (2014–2015)\n- BSc in Mathematics, KNUST, Ghana (2009–2013)\n\n## Research Interests\n- Infectious disease modeling\n- Mosquito population dynamics\n- Climate-driven vector control strategies\n- Deterministic and stochastic modeling\n\n## Skills\n- R, Python, LaTeX\n- Sensitivity analysis (PRCC, LHS)\n- Scientific writing & presentations"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome\nWelcome to my academic website. I am a mathematical biologist specializing in infectious disease modeling and population dynamics in ecological systems. My work integrates deterministic and stochastic modeling, climate data, and public health strategies."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Joseph Baafi",
+    "section": "",
+    "text": "---\ntitle: \"Research\"\n---\n\nMy research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.\n\nI analyze the implications of seasonal climate change on Culex mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Joseph Baafi",
+    "section": "",
+    "text": "---\ntitle: \"Teaching\"\n---\n\nI have taught and assisted in undergraduate mathematics and biology courses, including:\n\n- Differential Equations\n- Basic and Applied Statistics\n- R Programming for Biological Sciences\n- Mathematical Methods\n\nI have experience developing instructional materials, assessing student performance, and supporting students with coding and research project development."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Joseph Baafi",
+    "section": "",
+    "text": "---\ntitle: \"Contact\"\n---\n\nYou can reach me at:\n\n**Email:** [jbaafi@mun.ca](mailto:jbaafi@mun.ca)  \n**LinkedIn:** [linkedin.com/in/joseph-baafi-71a4a9a4](https://linkedin.com/in/joseph-baafi-71a4a9a4)  \n**Location:** St. John's, Newfoundland, Canada"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Joseph Baafi",
+    "section": "",
+    "text": "---\ntitle: \"About Me\"\n---\n\nI am currently a PhD candidate in Mathematical Biology at Memorial University of Newfoundland. My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.\n\nI have experience teaching undergraduate mathematics and programming in R, and enjoy mentoring students in research, data analysis, and scientific communication."
+  }
+]

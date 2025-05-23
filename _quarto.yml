@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Joseph Baafi"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    center: "© 2025 Joseph Baafi"
+
+format:
+  html:
+    theme: default
+    toc: true

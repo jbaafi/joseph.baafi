@@ -1,0 +1,3 @@
+# Welcome
+
+Welcome to my academic website. I am a mathematical biologist specializing in infectious disease modeling and population dynamics in ecological systems. My work integrates deterministic and stochastic modeling, climate data, and public health strategies.
