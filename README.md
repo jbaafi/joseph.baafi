@@ -1,1 +1,1 @@
-[# joseph.baafi](https://jbaafi.github.io/joseph.baafi/)
+You can visit my page [here](https://jbaafi.github.io/joseph.baafi/)
