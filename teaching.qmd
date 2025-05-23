@@ -1,4 +1,3 @@
-```
 ---
 title: "Teaching"
 ---
@@ -11,4 +10,3 @@ I have taught and assisted in undergraduate mathematics and biology courses, inc
 - Mathematical Methods
 
 I have experience developing instructional materials, assessing student performance, and supporting students with coding and research project development.
-```

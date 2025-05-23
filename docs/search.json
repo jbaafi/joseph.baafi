@@ -2,9 +2,30 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Joseph Baafi",
+    "title": "CV",
     "section": "",
-    "text": "---\ntitle: \"CV\"\n---\n\n[Download my CV (PDF)](cv.pdf)\n\n## Education\n- PhD Candidate in Mathematical Biology, Memorial University of Newfoundland (2020–Present)\n- MPhil in Applied Mathematics, KNUST, Ghana (2015–2016)\n- MSc in Mathematical Sciences, AIMS Ghana (2014–2015)\n- BSc in Mathematics, KNUST, Ghana (2009–2013)\n\n## Research Interests\n- Infectious disease modeling\n- Mosquito population dynamics\n- Climate-driven vector control strategies\n- Deterministic and stochastic modeling\n\n## Skills\n- R, Python, LaTeX\n- Sensitivity analysis (PRCC, LHS)\n- Scientific writing & presentations"
+    "text": "Download my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD Candidate in Mathematical Biology, Memorial University of Newfoundland (2020–Present)\nMPhil in Applied Mathematics, KNUST, Ghana (2015–2016)\nMSc in Mathematical Sciences, AIMS Ghana (2014–2015)\nBSc in Mathematics, KNUST, Ghana (2009–2013)"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "CV",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nInfectious disease modeling\nMosquito population dynamics\nClimate-driven vector control strategies\nDeterministic and stochastic modeling"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nR, Python, LaTeX\nSensitivity analysis (PRCC, LHS)\nScientific writing & presentations"
   },
   {
     "objectID": "index.html",
@@ -16,29 +37,29 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Joseph Baafi",
+    "title": "Research",
     "section": "",
-    "text": "---\ntitle: \"Research\"\n---\n\nMy research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.\n\nI analyze the implications of seasonal climate change on Culex mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes."
+    "text": "My research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.\nI analyze the implications of seasonal climate change on Culex mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Joseph Baafi",
+    "title": "Teaching",
     "section": "",
-    "text": "---\ntitle: \"Teaching\"\n---\n\nI have taught and assisted in undergraduate mathematics and biology courses, including:\n\n- Differential Equations\n- Basic and Applied Statistics\n- R Programming for Biological Sciences\n- Mathematical Methods\n\nI have experience developing instructional materials, assessing student performance, and supporting students with coding and research project development."
+    "text": "I have taught and assisted in undergraduate mathematics and biology courses, including:\n\nDifferential Equations\nBasic and Applied Statistics\nR Programming for Biological Sciences\nMathematical Methods\n\nI have experience developing instructional materials, assessing student performance, and supporting students with coding and research project development."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Joseph Baafi",
+    "title": "Contact",
     "section": "",
-    "text": "---\ntitle: \"Contact\"\n---\n\nYou can reach me at:\n\n**Email:** [jbaafi@mun.ca](mailto:jbaafi@mun.ca)  \n**LinkedIn:** [linkedin.com/in/joseph-baafi-71a4a9a4](https://linkedin.com/in/joseph-baafi-71a4a9a4)  \n**Location:** St. John's, Newfoundland, Canada"
+    "text": "You can reach me at:\nEmail: jbaafi@mun.ca\nLinkedIn: linkedin.com/in/joseph-baafi-71a4a9a4\nLocation: St. John’s, Newfoundland, Canada"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Joseph Baafi",
+    "title": "About Me",
     "section": "",
-    "text": "---\ntitle: \"About Me\"\n---\n\nI am currently a PhD candidate in Mathematical Biology at Memorial University of Newfoundland. My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.\n\nI have experience teaching undergraduate mathematics and programming in R, and enjoy mentoring students in research, data analysis, and scientific communication."
+    "text": "I am currently a PhD candidate in Mathematical Biology at Memorial University of Newfoundland.\nMy research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.\nI have experience teaching undergraduate mathematics and programming in R, and enjoy mentoring students in research, data analysis, and scientific communication."
   }
 ]

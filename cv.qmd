@@ -1,4 +1,3 @@
-```
 ---
 title: "CV"
 ---
@@ -21,4 +20,3 @@ title: "CV"
 - R, Python, LaTeX
 - Sensitivity analysis (PRCC, LHS)
 - Scientific writing & presentations
-```
