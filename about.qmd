@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-![](profile.jpg){width=150px style="border-radius: 50%; margin-bottom: 1em;"}
+![](profile.jpeg){width=150px style="border-radius: 50%; margin-bottom: 1em;"}
 
 I am currently a PhD candidate in Mathematical Biology at Memorial University of Newfoundland. My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.
 
