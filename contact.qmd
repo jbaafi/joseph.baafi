@@ -1,4 +1,4 @@
-```
+
 ---
 title: "Contact"
 ---
@@ -8,4 +8,3 @@ You can reach me at:
 **Email:** [jbaafi@mun.ca](mailto:jbaafi@mun.ca)  
 **LinkedIn:** [linkedin.com/in/joseph-baafi-71a4a9a4](https://linkedin.com/in/joseph-baafi-71a4a9a4)  
 **Location:** St. John's, Newfoundland, Canada
-```
