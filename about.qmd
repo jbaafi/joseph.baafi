@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Joseph Baafi"
 ---
 
 ![](profile.jpeg){width=150px style="border-radius: 50%; margin-bottom: 1em;"}
