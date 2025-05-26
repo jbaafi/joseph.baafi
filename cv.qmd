@@ -20,3 +20,7 @@ title: "CV"
 - R, Python, LaTeX
 - Sensitivity analysis (PRCC, LHS)
 - Scientific writing & presentations
+
+## Certifications
+- [AAMRS_EIDM summer school](AARMS_certificate.pdf)
+- [CareerTech Data Analytics Workshop](data_analytics.pdf)
