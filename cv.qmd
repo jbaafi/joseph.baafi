@@ -21,6 +21,6 @@ title: "CV"
 - Sensitivity analysis (PRCC, LHS)
 - Scientific writing & presentations
 
-## Certifications
+## Training
 - [AAMRS_EIDM summer school](AARMS_certificate.pdf)
 - [CareerTech Data Analytics Workshop](data_analytics.pdf)
