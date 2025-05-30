@@ -53,7 +53,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.\nI analyze the implications of seasonal climate change on Culex mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes."
+    "text": "My research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.\nI analyze the implications of seasonal climate change on mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes."
   },
   {
     "objectID": "index.html#joseph-baafi",
