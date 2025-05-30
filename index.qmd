@@ -1,3 +1,16 @@
+---
+title: "Joseph Baafi"
+format:
+  html:
+    toc: false
+---
+
+![](profile.jpeg){width=140px style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"}
+
 # Welcome
 
-Welcome to my academic website. I am a mathematical biologist specializing in infectious disease modeling and population dynamics in ecological systems. My work integrates deterministic and stochastic modeling, climate data, and public health strategies.
+I am a PhD candidate in Mathematical Biology at Memorial University of Newfoundland. My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.
+
+I specialize in deterministic and stochastic modeling, ecological systems analysis, and the integration of climate data into mathematical frameworks. I am proficient in R and LaTeX, and have practical experience using Python, GitHub, and Linux for scientific computing.
+
+I have experience teaching undergraduate mathematics and programming in R, and enjoy mentoring students in research, data analysis, and scientific communication.
