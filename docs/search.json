@@ -35,18 +35,11 @@
     "text": "Training\n\nAAMRS_EIDM summer school\nCareerTech Data Analytics Workshop"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joseph Baafi",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Welcome\nI am a PhD candidate in Mathematical Biology at Memorial University of Newfoundland. My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.\nI specialize in deterministic and stochastic modeling, ecological systems analysis, and the integration of climate data into mathematical frameworks. I am proficient in R and LaTeX, and have practical experience using Python, GitHub, and Linux for scientific computing.\nI have experience teaching undergraduate mathematics and programming in R, and enjoy mentoring students in research, data analysis, and scientific communication."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.\nI analyze the implications of seasonal climate change on Culex mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes."
+    "text": "You can reach me at:\nEmail: jbaafi@mun.ca\nLinkedIn: linkedin.com/in/joseph-baafi-71a4a9a4\nLocation: St. John’s, Newfoundland, Canada"
   },
   {
     "objectID": "teaching.html",
@@ -56,17 +49,17 @@
     "text": "I have taught and assisted in undergraduate mathematics and biology courses, including:\n\nDifferential Equations\nBasic and Applied Statistics\nR Programming for Biological Sciences\nMathematical Methods\n\nI have experience developing instructional materials, assessing student performance, and supporting students with coding and research project development."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "You can reach me at:\nEmail: jbaafi@mun.ca\nLinkedIn: linkedin.com/in/joseph-baafi-71a4a9a4\nLocation: St. John’s, Newfoundland, Canada"
+    "text": "My research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.\nI analyze the implications of seasonal climate change on Culex mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Joseph Baafi",
     "section": "",
-    "text": "I am currently a PhD candidate in Mathematical Biology at Memorial University of Newfoundland. My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.\nI have experience teaching undergraduate mathematics and programming in R, and enjoy mentoring students in research, data analysis, and scientific communication."
+    "text": "Welcome\nI am a PhD candidate in Mathematical Biology at Memorial University of Newfoundland. My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.\nI specialize in deterministic and stochastic modeling, ecological systems analysis, and the integration of climate data into mathematical frameworks. I am proficient in R and LaTeX, and have practical experience using Python, GitHub, and Linux for scientific computing.\nI have experience teaching undergraduate mathematics and programming in R, and enjoy mentoring students in research, data analysis, and scientific communication."
   }
 ]
