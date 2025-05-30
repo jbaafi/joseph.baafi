@@ -3,14 +3,28 @@ title: "Joseph Baafi"
 format:
   html:
     toc: false
+    page-layout: full
 ---
 
 ![](profile.jpeg){width=140px style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"}
 
-# Welcome
+## Joseph Baafi  
+*PhD Candidate in Mathematical Biology | Infectious Disease & Ecological Modeling*
 
-I am a PhD candidate in Mathematical Biology at Memorial University of Newfoundland. My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.
+---
 
-I specialize in deterministic and stochastic modeling, ecological systems analysis, and the integration of climate data into mathematical frameworks. I am proficient in R and LaTeX, and have practical experience using Python, GitHub, and Linux for scientific computing.
+### Welcome
 
-I have experience teaching undergraduate mathematics and programming in R, and enjoy mentoring students in research, data analysis, and scientific communication.
+I am a PhD candidate in Mathematical Biology at Memorial University of Newfoundland.  
+My research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.
+
+I specialize in deterministic and stochastic modeling, ecological systems analysis, and the integration of climate data into mathematical frameworks.  
+I am proficient in R and LaTeX, and have practical experience using Python, GitHub, and Linux for scientific computing.
+
+I also have experience teaching undergraduate mathematics and R programming, and enjoy mentoring students in research, data analysis, and scientific communication.
+
+---
+
+### 📄 [Download CV](cv.pdf){.btn .btn-outline-primary}  
+### 📬 [Email Me](mailto:your.jbaafi@mun.ca){.btn .btn-outline-secondary}
+### 🔗 [GitHub](https://github.com/jbaafi){.btn .btn-outline-secondary}  
