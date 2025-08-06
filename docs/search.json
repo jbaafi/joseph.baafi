@@ -11,7 +11,7 @@
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nPhD Candidate in Mathematical Biology, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)\n\nMPhil in Applied Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana (2015–2016)\n\nMSc in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), Ghana (2014–2015)\n\nBSc in Mathematics, KNUST, Kumasi, Ghana (2009–2013)"
+    "text": "Education\n\nPhD Candidate in Mathematical Biology, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)\nSupervisor: Dr. Amy Hurford\nMPhil in Applied Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana (2015–2016)\n\nMSc in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), Ghana (2014–2015)\n\nBSc in Mathematics, KNUST, Kumasi, Ghana (2009–2013)"
   },
   {
     "objectID": "cv.html#professional-experience",
@@ -116,14 +116,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on developing and analyzing mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends."
+    "text": "My research focuses on developing and analyzing mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends. I conduct this research under the supervision of Dr. Amy Hurford."
   },
   {
     "objectID": "research.html#overview",
     "href": "research.html#overview",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on developing and analyzing mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends."
+    "text": "My research focuses on developing and analyzing mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends. I conduct this research under the supervision of Dr. Amy Hurford."
   },
   {
     "objectID": "research.html#modeling-approaches",
@@ -158,6 +158,6 @@
     "href": "index.html",
     "title": "Joseph Baafi",
     "section": "",
-    "text": "Joseph Baafi\n\n\nPhD Candidate in Mathematical Biology Infectious Disease & Ecological Modeling\n\n\nDownload CV GitHub LinkedIn Email me\n\n\n\n\n\nWelcome 👋\n\n\nI am a PhD researcher in Mathematical Biology at Memorial University of Newfoundland, specializing in climate-driven models of mosquito population dynamics. My work integrates temperature, rainfall, and photoperiod to better understand vector ecology and inform targeted public health strategies.\n\n\nI focus on deterministic and stochastic modeling, ecological systems analysis, and the translation of climate and ecological data into mathematical frameworks. I have expertise in R and LaTeX, working knowledge of Python and its scientific libraries, and experience in scientific computing with Git/GitHub and in macOS and Linux environments.\n\n\nI also have experience teaching undergraduate mathematics and R programming, and mentoring students in research, data analysis, and scientific communication.\n\n\nLearn more about my projects and findings in the Research section."
+    "text": "Joseph Baafi\n\n\nPhD Candidate in Mathematical Biology Infectious Disease & Ecological Modeling\n\n\nDownload CV GitHub LinkedIn Email me\n\n\n\n\n\nWelcome 👋\n\n\nI am a PhD researcher in Mathematical Biology at Memorial University of Newfoundland, specializing in climate-driven models of mosquito population dynamics. My work integrates temperature, rainfall, and photoperiod to better understand vector ecology and inform targeted public health strategies. I am currently supervised by Dr. Amy Hurford.\n\n\nI focus on deterministic and stochastic modeling, ecological systems analysis, and the translation of climate and ecological data into mathematical frameworks. I have expertise in R and LaTeX, working knowledge of Python and its scientific libraries, and experience in scientific computing with Git/GitHub and in macOS and Linux environments.\n\n\nI also have experience teaching undergraduate mathematics and R programming, and mentoring students in research, data analysis, and scientific communication.\n\n\nLearn more about my projects and findings in the Research section."
   }
 ]

@@ -8,6 +8,7 @@ title: "CV"
 
 ## Education
 - **PhD Candidate in Mathematical Biology**, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)  
+  *Supervisor: <a href="https://ahurford.github.io/website/" target="_blank" style="text-decoration: none;">Dr. Amy Hurford</a>*
 - **MPhil in Applied Mathematics**, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana (2015–2016)  
 - **MSc in Mathematical Sciences**, African Institute for Mathematical Sciences (AIMS), Ghana (2014–2015)  
 - **BSc in Mathematics**, KNUST, Kumasi, Ghana (2009–2013)  

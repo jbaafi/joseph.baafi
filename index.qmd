@@ -24,7 +24,7 @@ format:
 <!-- Right column -->
 <div class="g-col-8">
 <h2>Welcome 👋</h2>
-<p> I am a PhD researcher in Mathematical Biology at Memorial University of Newfoundland, specializing in climate-driven models of mosquito population dynamics. My work integrates temperature, rainfall, and photoperiod to better understand vector ecology and inform targeted public health strategies. </p>
+<p> I am a PhD researcher in Mathematical Biology at Memorial University of Newfoundland, specializing in climate-driven models of mosquito population dynamics. My work integrates temperature, rainfall, and photoperiod to better understand vector ecology and inform targeted public health strategies. I am currently supervised by <a href="https://ahurford.github.io/website/" target="_blank" style="text-decoration: none;">Dr. Amy Hurford</a>. </p>
 <p> I focus on deterministic and stochastic modeling, ecological systems analysis, and the translation of climate and ecological data into mathematical frameworks. I have expertise in R and LaTeX, working knowledge of Python and its scientific libraries, and experience in scientific computing with Git/GitHub and in macOS and Linux environments. </p>
 <p> I also have experience teaching undergraduate mathematics and R programming, and mentoring students in research, data analysis, and scientific communication. </p>
 <p> Learn more about my projects and findings in the <a href="/research.qmd">Research</a> section. </p> <hr> </div> </div>

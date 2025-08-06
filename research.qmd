@@ -4,6 +4,8 @@ title: "Research"
 
 ## Overview
 My research focuses on developing and analyzing **mathematical models of mosquito population dynamics** in response to environmental conditions such as **temperature**, **rainfall**, and **photoperiod**. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends.
+I conduct this research under the supervision of <a href="https://ahurford.github.io/website/" target="_blank" style="text-decoration: none;">Dr. Amy Hurford.</a>
+
 
 ## Modeling Approaches
 I use both deterministic and stochastic modeling frameworks to simulate mosquito life stages — from eggs to adults — incorporating biological processes such as **diapause**. My models integrate climate data to capture realistic seasonal patterns, allowing for robust predictions under varying environmental conditions.
