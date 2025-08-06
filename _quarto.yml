@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Joseph Baafi"
+  description: "Official website of Joseph Baafi, PhD Candidate in Mathematical Biology at Memorial University of Newfoundland. Specializing in infectious disease modeling, mosquito population dynamics, and climate-driven vector control strategies."
   navbar:
     left:
       - text: "Home"
@@ -24,3 +25,8 @@ format:
     css: styles.css
     theme: default
     toc: true
+    include-in-header:
+      text: |
+        <meta name="description" content="Official website of Joseph Baafi, PhD Candidate in Mathematical Biology at Memorial University of Newfoundland. Specializing in infectious disease modeling, mosquito population dynamics, and climate-driven vector control strategies.">
+        <meta name="keywords" content="Joseph Baafi, Mathematical Biology, Infectious Disease Modeling, Mosquito Dynamics, Climate Change, Vector Control, Memorial University, Canada, Public Health, Ecological Modeling">
+        <meta name="author" content="Joseph Baafi">
