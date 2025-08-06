@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Joseph Baafi"
+  site-url: "https://jbaafi.github.io/joseph.baafi/"
   description: "Official website of Joseph Baafi, PhD Candidate in Mathematical Biology at Memorial University of Newfoundland. Specializing in infectious disease modeling, mosquito population dynamics, and climate-driven vector control strategies."
   navbar:
     left:
