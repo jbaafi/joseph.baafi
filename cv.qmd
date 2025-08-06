@@ -2,25 +2,41 @@
 title: "CV"
 ---
 
-[Download my CV (PDF)](cv.pdf)
+[Download my CV (PDF)](cv.pdf){target="_blank"}  
+
+*PhD candidate specializing in climate-driven mosquito population modeling, with expertise in deterministic and stochastic modeling, sensitivity analysis, and scientific communication.*  
 
 ## Education
-- PhD Candidate in Mathematical Biology, Memorial University of Newfoundland (2020–Present)
-- MPhil in Applied Mathematics, KNUST, Ghana (2015–2016)
-- MSc in Mathematical Sciences, AIMS Ghana (2014–2015)
-- BSc in Mathematics, KNUST, Ghana (2009–2013)
+- **PhD Candidate in Mathematical Biology**, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)  
+- **MPhil in Applied Mathematics**, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana (2015–2016)  
+- **MSc in Mathematical Sciences**, African Institute for Mathematical Sciences (AIMS), Ghana (2014–2015)  
+- **BSc in Mathematics**, KNUST, Kumasi, Ghana (2009–2013)  
+
+## Professional Experience
+- **Graduate Researcher**, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)  
+  - Develop stage-structured mosquito population models integrating climate data (temperature, rainfall, photoperiod).  
+  - Conduct sensitivity and scenario analyses to assess climate change impacts on vector abundance.  
+  - Presented findings at **3 international conferences** and contributed to peer-reviewed publications.  
+
+- **Graduate Teaching Assistant**, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)  
+  - Teach and assist in undergraduate mathematical biology courses.  
+  - Mentor students in R programming, data analysis, and research project development.  
+
+- **Lecturer**, Valley View University & Anglican University College of Technology – Ghana (2016–2019)  
+  - Taught undergraduate mathematics and statistics courses.  
+  - Supervised **10+ undergraduate research projects** and provided academic advising.  
 
 ## Research Interests
-- Infectious disease modeling
-- Mosquito population dynamics
-- Climate-driven vector control strategies
-- Deterministic and stochastic modeling
+- Infectious disease modeling  
+- Mosquito population dynamics  
+- Climate-driven vector control strategies  
+- Deterministic and stochastic modeling  
 
 ## Skills
-- R, Python, LaTeX
-- Sensitivity analysis (PRCC, LHS)
-- Scientific writing & presentations
+- **Programming**: R, Python, LaTeX  
+- **Analysis Methods**: Sensitivity analysis (PRCC, LHS), uncertainty analysis  
+- **Communication**: Scientific writing & presentations  
 
 ## Training
-- [AAMRS_EIDM summer school](AARMS_certificate.pdf)
-- [CareerTech Data Analytics Workshop](data_analytics.pdf)
+- [AAMRS_EIDM Summer School](AARMS_certificate.pdf){target="_blank"}  
+- [CareerTech Data Analytics Workshop](data_analytics.pdf){target="_blank"}

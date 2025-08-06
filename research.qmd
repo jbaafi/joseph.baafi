@@ -2,6 +2,28 @@
 title: "Research"
 ---
 
-My research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.
+## Overview
+My research focuses on developing and analyzing **mathematical models of mosquito population dynamics** in response to environmental conditions such as **temperature**, **rainfall**, and **photoperiod**. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends.
 
-I analyze the implications of seasonal climate change on mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes.
+## Modeling Approaches
+I use both deterministic and stochastic modeling frameworks to simulate mosquito life stages — from eggs to adults — incorporating biological processes such as **diapause**. My models integrate climate data to capture realistic seasonal patterns, allowing for robust predictions under varying environmental conditions.
+
+## Applications
+The models I develop are applied to assess:
+
+- The **impact of seasonal climate variability and climate change** on mosquito abundance.  
+- The **timing and intensity of mosquito activity**, including peak abundance periods.  
+- The **potential for disease transmission** under different environmental scenarios.  
+
+
+## Analytical Tools
+To evaluate the robustness of model predictions, I apply **sensitivity analysis** techniques such as **Latin hypercube sampling (LHS)** and 
+**partial rank correlation coefficients (PRCC)**, alongside **uncertainty analysis** to quantify the effects of input variability. 
+I also use **scenario testing** to explore alternative climate and intervention conditions, and employ **visualization tools** (e.g., `ggplot2` in R) 
+to communicate findings. These approaches help identify the parameters most influential on population outcomes and guide targeted interventions.
+
+## Code and Data  
+The code and data used in my research are openly available on GitHub:  
+- [Mosquito Dynamics Model](https://github.com/jbaafi/Mosquito-Dynamics)  
+- [Climate Data Analysis](https://github.com/jbaafi/Climate-Data-Analysis)  
+- [Sensitivity Analysis](https://github.com/jbaafi/Sensitivity-Analysis)  

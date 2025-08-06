@@ -4,62 +4,174 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download my CV (PDF)"
+    "text": "Download my CV (PDF)\nPhD candidate specializing in climate-driven mosquito population modeling, with expertise in deterministic and stochastic modeling, sensitivity analysis, and scientific communication."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nPhD Candidate in Mathematical Biology, Memorial University of Newfoundland (2020–Present)\nMPhil in Applied Mathematics, KNUST, Ghana (2015–2016)\nMSc in Mathematical Sciences, AIMS Ghana (2014–2015)\nBSc in Mathematics, KNUST, Ghana (2009–2013)"
+    "text": "Education\n\nPhD Candidate in Mathematical Biology, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)\n\nMPhil in Applied Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana (2015–2016)\n\nMSc in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), Ghana (2014–2015)\n\nBSc in Mathematics, KNUST, Kumasi, Ghana (2009–2013)"
   },
   {
     "objectID": "cv.html#research-interests",
     "href": "cv.html#research-interests",
     "title": "CV",
     "section": "Research Interests",
-    "text": "Research Interests\n\nInfectious disease modeling\nMosquito population dynamics\nClimate-driven vector control strategies\nDeterministic and stochastic modeling"
+    "text": "Research Interests\n\nInfectious disease modeling\n\nMosquito population dynamics\n\nClimate-driven vector control strategies\n\nDeterministic and stochastic modeling"
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
     "title": "CV",
     "section": "Skills",
-    "text": "Skills\n\nR, Python, LaTeX\nSensitivity analysis (PRCC, LHS)\nScientific writing & presentations"
+    "text": "Skills\n\nProgramming: R, Python, LaTeX\n\nAnalysis Methods: Sensitivity analysis (PRCC, LHS), uncertainty analysis\n\nCommunication: Scientific writing & presentations"
   },
   {
     "objectID": "cv.html#training",
     "href": "cv.html#training",
     "title": "CV",
     "section": "Training",
-    "text": "Training\n\nAAMRS_EIDM summer school\nCareerTech Data Analytics Workshop"
+    "text": "Training\n\nAAMRS_EIDM Summer School\n\nCareerTech Data Analytics Workshop"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "You can reach me at:\nEmail: jbaafi@mun.ca\nLinkedIn: linkedin.com/in/joseph-baafi-71a4a9a4\nLocation: St. John’s, Newfoundland, Canada"
+    "text": "I welcome professional inquiries, applied research collaborations, and opportunities in industry, government, or academia that leverage my expertise in mathematical biology, infectious disease modeling, and ecological systems analysis. I am particularly interested in projects that apply quantitative modeling and data-driven decision-making to address real-world challenges in public health, environmental management, and policy development."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I have taught and assisted in undergraduate mathematics and biology courses, including:\n\nDifferential Equations\nBasic and Applied Statistics\nR Programming for Biological Sciences\nMathematical Methods\n\nI have experience developing instructional materials, assessing student performance, and supporting students with coding and research project development."
+    "text": "My teaching approach emphasizes active learning, practical application, and the integration of real-world data into the classroom. Drawing on my research in climate-driven mosquito population dynamics, I aim to equip students with the analytical skills and problem-solving strategies needed to address complex questions in mathematics, biology, and data science."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.\nI analyze the implications of seasonal climate change on mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes."
+    "text": "My research focuses on developing and analyzing mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends."
   },
   {
     "objectID": "index.html#joseph-baafi",
     "href": "index.html#joseph-baafi",
     "title": "Joseph Baafi",
-    "section": "Joseph Baafi",
-    "text": "Joseph Baafi\nPhD Candidate in Mathematical Biology | Infectious Disease & Ecological Modeling\n\n\nWelcome\nI am a PhD candidate in Mathematical Biology at Memorial University of Newfoundland.\nMy research focuses on climate-driven models of mosquito population dynamics, using temperature, rainfall, and photoperiod data to inform vector control and public health strategies.\nI specialize in deterministic and stochastic modeling, ecological systems analysis, and the integration of climate data into mathematical frameworks.\nI am proficient in R and LaTeX, and have practical experience using Python, Git and GitHub, MacOS and Linux for scientific computing.\nI also have experience teaching undergraduate mathematics and R programming, and enjoy mentoring students in research, data analysis, and scientific communication.\n\n\n\n📄 Download CV\n\n\n📬 Email Me\n\n\n🔗 GitHub"
+    "section": "",
+    "text": "PhD Candidate in Mathematical Biology • Infectious Disease & Ecological Modeling\nDownload CV GitHub LinkedIn Email\n\n\n\nI am a PhD researcher in Mathematical Biology at Memorial University of Newfoundland.\nMy research focuses on climate-driven models of mosquito population dynamics, integrating temperature, rainfall, and photoperiod data to inform vector control and public health strategies.\nI specialize in deterministic & stochastic modeling, ecological systems analysis, and the integration of climate data into mathematical frameworks. I’m proficient in R, Python, and LaTeX, and experienced with Git/GitHub, macOS, and Linux for scientific computing.\nI also have experience teaching undergraduate mathematics and R programming, and I enjoy mentoring students in research, data analysis, and scientific communication."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joseph Baafi",
+    "section": "",
+    "text": "Joseph Baafi\n\n\nPhD Candidate in Mathematical Biology Infectious Disease & Ecological Modeling\n\n\nDownload CV GitHub LinkedIn Email me\n\n\n\n\n\nWelcome 👋\n\n\nI am a PhD researcher in Mathematical Biology at Memorial University of Newfoundland, specializing in climate-driven models of mosquito population dynamics. My work integrates temperature, rainfall, and photoperiod to better understand vector ecology and inform targeted public health strategies.\n\n\nI focus on deterministic and stochastic modeling, ecological systems analysis, and the translation of climate and ecological data into mathematical frameworks. I have expertise in R and LaTeX, working knowledge of Python and its scientific libraries, and experience in scientific computing with Git/GitHub and in macOS and Linux environments.\n\n\nI also have experience teaching undergraduate mathematics and R programming, and mentoring students in research, data analysis, and scientific communication.\n\n\nLearn more about my projects and findings in the Research section."
+  },
+  {
+    "objectID": "index.html#research-highlights",
+    "href": "index.html#research-highlights",
+    "title": "Joseph Baafi",
+    "section": "Research Highlights",
+    "text": "Research Highlights\n\n🦟 Mosquito Dynamics Model\nStage-structured model driven by climate inputs (temperature, rainfall, photoperiod).\nView on GitHub →\n\n\n\n🌦 Climate Data Analysis (2008–2023)\nProcessing, seasonal fits, and R² estimation for temperature, rainfall, and photoperiod data.\nView on GitHub →\n\n\n\n📊 Sensitivity Analysis\nLHS + PRCC evaluation of key model parameters driving vector population dynamics.\nView on GitHub →"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on developing and analyzing mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends."
+  },
+  {
+    "objectID": "research.html#modeling-approaches",
+    "href": "research.html#modeling-approaches",
+    "title": "Research",
+    "section": "Modeling Approaches",
+    "text": "Modeling Approaches\nI use both deterministic and stochastic modeling frameworks to simulate mosquito life stages — from eggs to adults — incorporating biological processes such as diapause. My models integrate climate data to capture realistic seasonal patterns, allowing for robust predictions under varying environmental conditions."
+  },
+  {
+    "objectID": "research.html#applications",
+    "href": "research.html#applications",
+    "title": "Research",
+    "section": "Applications",
+    "text": "Applications\nThe models I develop are applied to assess:\n\nThe impact of seasonal climate variability and climate change on mosquito abundance.\n\nThe timing and intensity of mosquito activity, including peak abundance periods.\n\nThe potential for disease transmission under different environmental scenarios."
+  },
+  {
+    "objectID": "research.html#analytical-tools",
+    "href": "research.html#analytical-tools",
+    "title": "Research",
+    "section": "Analytical Tools",
+    "text": "Analytical Tools\nTo evaluate the robustness of model predictions, I apply sensitivity analysis techniques such as Latin hypercube sampling (LHS) and partial rank correlation coefficients (PRCC), alongside uncertainty analysis to quantify the effects of input variability. I also use scenario testing to explore alternative climate and intervention conditions, and employ visualization tools (e.g., ggplot2 in R) to communicate findings. These approaches help identify the parameters most influential on population outcomes and guide targeted interventions."
+  },
+  {
+    "objectID": "research.html#code-and-data",
+    "href": "research.html#code-and-data",
+    "title": "Research",
+    "section": "Code and Data",
+    "text": "Code and Data\nThe code and data used in my research are openly available on GitHub:\n- Mosquito Dynamics Model\n- Climate Data Analysis\n- Sensitivity Analysis"
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching approach emphasizes active learning, practical application, and the integration of real-world data into the classroom. Drawing on my research in climate-driven mosquito population dynamics, I aim to equip students with the analytical skills and problem-solving strategies needed to address complex questions in mathematics, biology, and data science."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nI have taught and assisted in undergraduate mathematics and biology courses, including:\n\nDifferential Equations\nBasic and Applied Statistics\nR Programming for Biological Sciences\nMathematical Methods"
+  },
+  {
+    "objectID": "teaching.html#instructional-skills",
+    "href": "teaching.html#instructional-skills",
+    "title": "Teaching",
+    "section": "Instructional Skills",
+    "text": "Instructional Skills\nI have experience in:\n\nDeveloping instructional materials tailored to diverse learning needs.\nAssessing student performance through assignments, projects, and exams.\nProviding coding support in R and guiding students in research project development.\nMentoring students in data analysis, modeling, and scientific communication."
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome professional inquiries, applied research collaborations, and opportunities in industry, government, or academia that leverage my expertise in mathematical biology, infectious disease modeling, and ecological systems analysis. I am particularly interested in projects that apply quantitative modeling and data-driven decision-making to address real-world challenges in public health, environmental management, and policy development."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\n📧 jbaafi@mun.ca"
+  },
+  {
+    "objectID": "contact.html#professional-profiles",
+    "href": "contact.html#professional-profiles",
+    "title": "Contact",
+    "section": "Professional Profiles",
+    "text": "Professional Profiles\n\nGitHub\n\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Contact",
+    "section": "Location",
+    "text": "Location\nMemorial University of Newfoundland\nSt. John’s, NL, Canada"
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Contact",
+    "section": "Contact Form",
+    "text": "Contact Form\nFill out the form below, and I will get back to you as soon as possible.\n\nName: \nEmail: \nMessage:\n\n\n\n\nSend Message"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "CV",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nGraduate Researcher, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)\n\nDevelop stage-structured mosquito population models integrating climate data (temperature, rainfall, photoperiod).\n\nConduct sensitivity and scenario analyses to assess climate change impacts on vector abundance.\n\nPresented findings at 3 international conferences and contributed to peer-reviewed publications.\n\nGraduate Teaching Assistant, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–Present)\n\nTeach and assist in undergraduate mathematical biology courses.\n\nMentor students in R programming, data analysis, and research project development.\n\nLecturer, Valley View University & Anglican University College of Technology – Ghana (2016–2019)\n\nTaught undergraduate mathematics and statistics courses.\n\nSupervised 10+ undergraduate research projects and provided academic advising."
   }
 ]

@@ -21,5 +21,6 @@ website:
 
 format:
   html:
+    css: styles.css
     theme: default
     toc: true

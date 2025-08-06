@@ -69,6 +69,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -119,8 +120,18 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#modeling-approaches" id="toc-modeling-approaches" class="nav-link" data-scroll-target="#modeling-approaches">Modeling Approaches</a></li>
+  <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications">Applications</a></li>
+  <li><a href="#analytical-tools" id="toc-analytical-tools" class="nav-link" data-scroll-target="#analytical-tools">Analytical Tools</a></li>
+  <li><a href="#code-and-data" id="toc-code-and-data" class="nav-link" data-scroll-target="#code-and-data">Code and Data</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -144,10 +155,38 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>My research focuses on mathematical models of mosquito population dynamics in response to environmental conditions such as temperature, rainfall, and photoperiod. I use deterministic and stochastic modeling approaches to simulate mosquito life stages, including diapause behavior.</p>
-<p>I analyze the implications of seasonal climate change on mosquito abundance and the potential for disease transmission, and apply sensitivity analysis to evaluate the robustness of model outcomes.</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>My research focuses on developing and analyzing <strong>mathematical models of mosquito population dynamics</strong> in response to environmental conditions such as <strong>temperature</strong>, <strong>rainfall</strong>, and <strong>photoperiod</strong>. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends.</p>
+</section>
+<section id="modeling-approaches" class="level2">
+<h2 class="anchored" data-anchor-id="modeling-approaches">Modeling Approaches</h2>
+<p>I use both deterministic and stochastic modeling frameworks to simulate mosquito life stages — from eggs to adults — incorporating biological processes such as <strong>diapause</strong>. My models integrate climate data to capture realistic seasonal patterns, allowing for robust predictions under varying environmental conditions.</p>
+</section>
+<section id="applications" class="level2">
+<h2 class="anchored" data-anchor-id="applications">Applications</h2>
+<p>The models I develop are applied to assess:</p>
+<ul>
+<li>The <strong>impact of seasonal climate variability and climate change</strong> on mosquito abundance.<br>
+</li>
+<li>The <strong>timing and intensity of mosquito activity</strong>, including peak abundance periods.<br>
+</li>
+<li>The <strong>potential for disease transmission</strong> under different environmental scenarios.</li>
+</ul>
+</section>
+<section id="analytical-tools" class="level2">
+<h2 class="anchored" data-anchor-id="analytical-tools">Analytical Tools</h2>
+<p>To evaluate the robustness of model predictions, I apply <strong>sensitivity analysis</strong> techniques such as <strong>Latin hypercube sampling (LHS)</strong> and <strong>partial rank correlation coefficients (PRCC)</strong>, alongside <strong>uncertainty analysis</strong> to quantify the effects of input variability. I also use <strong>scenario testing</strong> to explore alternative climate and intervention conditions, and employ <strong>visualization tools</strong> (e.g., <code>ggplot2</code> in R) to communicate findings. These approaches help identify the parameters most influential on population outcomes and guide targeted interventions.</p>
+</section>
+<section id="code-and-data" class="level2">
+<h2 class="anchored" data-anchor-id="code-and-data">Code and Data</h2>
+<p>The code and data used in my research are openly available on GitHub:<br>
+- <a href="https://github.com/jbaafi/Mosquito-Dynamics">Mosquito Dynamics Model</a><br>
+- <a href="https://github.com/jbaafi/Climate-Data-Analysis">Climate Data Analysis</a><br>
+- <a href="https://github.com/jbaafi/Sensitivity-Analysis">Sensitivity Analysis</a></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
