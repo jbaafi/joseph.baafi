@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google3e70578b0240205a.html
 
 website:
   title: "Joseph Baafi"
