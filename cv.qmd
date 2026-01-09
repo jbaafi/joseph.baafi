@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-[Download my CV (PDF)](cv2.pdf){target="_blank"}  
+[Download my CV (PDF)](cv.pdf){target="_blank"}  
 
 *PhD candidate specializing in climate-driven mosquito population modeling, with expertise in deterministic and stochastic modeling, sensitivity analysis, and scientific communication.*  
 
