@@ -1,0 +1,136 @@
+/* ====== Grid column spacing ====== */
+.grid {
+    gap: 30px; /* space between left and right columns */
+  }
+  
+  /* ====== Left column alignment & width ====== */
+  .g-col-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* align content to top */
+    max-width: 320px; /* wider left column for breathing room */
+  }
+  
+  /* ====== Image Styling ====== */
+  .profile-img {
+    border-radius: 12px;
+    width: 200px;
+    margin-bottom: 15px; /* more breathing room under image */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+  
+  /* ====== Buttons Styling ====== */
+  .button-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px; /* space between buttons */
+    margin-top: 10px;
+  }
+  
+  .btn {
+    border-radius: 8px;
+    padding: 6px 14px;
+    font-size: 0.9rem;
+    text-decoration: none !important;
+    display: inline-block;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+  }
+  
+  /* Primary button (Download CV) — larger and bolder */
+  .btn-primary {
+    background-color: #005f73;
+    border: none;
+    color: white !important;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 8px 18px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0a9396;
+    transform: translateY(-2px);
+  }
+  
+  .btn-secondary {
+    background-color: #e0e0e0;
+    border: none;
+    color: #333 !important;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #cfcfcf;
+    transform: translateY(-2px);
+  }
+  
+  /* ====== Welcome text readability ====== */
+  .g-col-8 p {
+    line-height: 1.6;
+  }
+  
+  /* ====== Mobile adjustments ====== */
+  @media (max-width: 768px) {
+    .grid {
+      gap: 20px; /* slightly smaller gap on mobile */
+    }
+  
+    .g-col-4 {
+      max-width: 100%; /* full width on mobile */
+    }
+  
+    .button-group {
+      flex-direction: column; /* stack buttons vertically */
+      align-items: center;
+    }
+    
+    .button-group .btn {
+      width: 100%;
+      max-width: 220px;
+      text-align: center;
+    }
+  }
+  
+  /* ===== Contact Form Styling ===== */
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* space between form elements */
+    max-width: 500px;
+  }
+  
+  .contact-form label {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 8px;
+    font-size: 0.95rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .contact-form input:focus,
+  .contact-form textarea:focus {
+    border-color: #005f73; /* matches primary button color */
+    outline: none;
+    box-shadow: 0 0 4px rgba(0, 95, 115, 0.3);
+  }
+  
+  /* Align the send button to the start */
+  .contact-form button {
+    align-self: flex-start;
+  }
+  
+  /* Mobile adjustments */
+  @media (max-width: 768px) {
+    .contact-form {
+      width: 100%;
+    }
+  }
+  
+  
