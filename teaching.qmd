@@ -3,21 +3,20 @@ title: "Teaching"
 ---
 
 ## Teaching Philosophy
-My teaching approach emphasizes active learning, practical application, and the integration of real-world data into the classroom. Drawing on my research in climate-driven mosquito population dynamics, I aim to equip students with the analytical skills and problem-solving strategies needed to address complex questions in mathematics, biology, and data science.
+My teaching approach emphasizes active learning, practical application, and the integration of real-world data into the classroom. Drawing on my research in climate-driven mosquito population dynamics, I aim to equip students with the analytical skills and problem-solving strategies needed to address complex questions in mathematics, biology, and data science. I place particular emphasis on helping students connect mathematical theory with computational implementation and real-world applications.
 
 ## Teaching Experience
 I have taught and assisted in undergraduate mathematics and biology courses, including:
 
-- Differential Equations
-- Basic and Applied Statistics
-- R Programming for Biological Sciences
-- Mathematical Methods
+- Differential Equations  
+- Basic and Applied Statistics  
+- R Programming for Biological Sciences  
+- Mathematical Methods  
 
 ## Instructional Skills
 I have experience in:
 
-- Developing instructional materials tailored to diverse learning needs.
-- Assessing student performance through assignments, projects, and exams.
-- Providing coding support in R and guiding students in research project development.
-- Mentoring students in data analysis, modeling, and scientific communication.
-
+- Developing instructional materials and quantitative training resources tailored to diverse learning needs  
+- Assessing student performance through assignments, projects, and exams  
+- Supporting students in R programming, data analysis, and computational modeling  
+- Mentoring students in research design, modeling, and scientific communication  

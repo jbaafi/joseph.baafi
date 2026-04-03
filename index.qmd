@@ -12,8 +12,8 @@ format:
 <!-- Left column -->
 <div class="g-col-4" style="text-align: center;">
 <img src="profile.jpeg" class="profile-img">
-<h2 style="margin-bottom: 5px;">Joseph Baafi</h2>
-<p style="font-style: italic; margin-bottom: 15px;"> PhD Candidate in Mathematical Biology<br> Infectious Disease & Ecological Modeling </p>
+<h2 style="margin-bottom: 5px;">Joseph Baafi, PhD</h2>
+<p style="font-style: italic; margin-bottom: 15px;"> Postdoctoral Fellow in Mathematical Biology<br> Climate-Driven Ecological &amp; Infectious Disease Modeling </p>
 <div class="button-group">
 <a class="btn btn-primary" href="cv.pdf">Download CV</a>
 <a class="btn btn-secondary" href="https://github.com/jbaafi">GitHub</a>
@@ -21,11 +21,15 @@ format:
 <a class="btn btn-secondary" href="mailto:jbaafi@mun.ca">Email me</a>
 </div>
 </div>
+
 <!-- Right column -->
 <div class="g-col-8">
 <h2>Welcome 👋</h2>
-<p> I am a PhD researcher in Mathematical Biology at Memorial University of Newfoundland, specializing in climate-driven models of mosquito population dynamics. My work integrates temperature, rainfall, and photoperiod to better understand vector ecology and inform targeted public health strategies. I am currently supervised by <a href="https://ahurford.github.io/website/" target="_blank" style="text-decoration: none;">Dr. Amy Hurford</a>. </p>
-<p> I focus on deterministic and stochastic modeling, ecological systems analysis, and the translation of climate and ecological data into mathematical frameworks. I have expertise in R and LaTeX, working knowledge of Python and its scientific libraries, and experience in scientific computing with Git/GitHub and in macOS and Linux environments. </p>
+<p> I am a mathematical biologist and Postdoctoral Fellow at York University, specializing in climate-driven models of mosquito population dynamics. My research integrates temperature, rainfall, and photoperiod to better understand vector ecology, overwintering dynamics, and the effects of environmental change on mosquito abundance and disease risk. </p>
+<p> I completed my PhD in Biology (Mathematical Biology) at Memorial University of Newfoundland, where I was supervised by <a href="https://ahurford.github.io/website/" target="_blank" style="text-decoration: none;">Dr. Amy Hurford</a>. My doctoral work focused on developing and analyzing mechanistic models to study seasonal mosquito dynamics and their implications for vector control. </p>
+<p> I work at the intersection of deterministic and stochastic modeling, ecological systems analysis, and climate-data integration. I have expertise in R and LaTeX, working knowledge of Python and its scientific libraries, and experience in scientific computing with Git/GitHub and in macOS and Linux environments. </p>
 <p> I also have experience teaching undergraduate mathematics and R programming, and mentoring students in research, data analysis, and scientific communication. </p>
-<p> Learn more about my projects and findings in the <a href="/research.qmd">Research</a> section. </p> <hr> </div> </div>
-
+<p> Learn more about my projects and findings in the <a href="research.html">Research</a> section. </p>
+<hr>
+</div>
+</div>

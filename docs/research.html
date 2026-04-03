@@ -132,6 +132,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#modeling-approaches" id="toc-modeling-approaches" class="nav-link" data-scroll-target="#modeling-approaches">Modeling Approaches</a></li>
   <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications">Applications</a></li>
   <li><a href="#analytical-tools" id="toc-analytical-tools" class="nav-link" data-scroll-target="#analytical-tools">Analytical Tools</a></li>
+  <li><a href="#software-development" id="toc-software-development" class="nav-link" data-scroll-target="#software-development">Software Development</a></li>
   <li><a href="#code-and-data" id="toc-code-and-data" class="nav-link" data-scroll-target="#code-and-data">Code and Data</a></li>
   </ul>
 </nav>
@@ -160,33 +161,67 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>My research focuses on developing and analyzing <strong>mathematical models of mosquito population dynamics</strong> in response to environmental conditions such as <strong>temperature</strong>, <strong>rainfall</strong>, and <strong>photoperiod</strong>. These models help uncover how seasonal and climatic factors shape mosquito life cycles and population trends. I conduct this research under the supervision of <a href="https://ahurford.github.io/website/" target="_blank" style="text-decoration: none;">Dr.&nbsp;Amy Hurford.</a></p>
+<p>My research focuses on developing and analyzing <strong>mechanistic mathematical models of mosquito population dynamics</strong> under changing environmental conditions, including <strong>temperature</strong>, <strong>rainfall</strong>, and <strong>photoperiod</strong>. These models are designed to capture how seasonal forcing and climate variability shape mosquito life cycles, population structure, and disease risk.</p>
+<p>I am currently a Postdoctoral Research Fellow at York University, where I extend this work to study <strong>climate-driven mosquito dynamics in Canada</strong>, including regional comparisons and the interaction of environmental drivers across diverse climatic settings.</p>
 </section>
 <section id="modeling-approaches" class="level2">
 <h2 class="anchored" data-anchor-id="modeling-approaches">Modeling Approaches</h2>
-<p>I use both deterministic and stochastic modeling frameworks to simulate mosquito life stages — from eggs to adults — incorporating biological processes such as <strong>diapause</strong>. My models integrate climate data to capture realistic seasonal patterns, allowing for robust predictions under varying environmental conditions.</p>
+<p>I develop and analyze <strong>stage-structured dynamical systems</strong>, primarily using <strong>ordinary differential equations (ODEs)</strong> to represent mosquito life stages (eggs, larvae, pupae, active adults, and diapausing adults). These models incorporate key biological processes such as <strong>density dependence</strong>, <strong>temperature- and rainfall-dependent development</strong>, and <strong>diapause dynamics</strong>.</p>
+<p>To capture environmental variability, I integrate both <strong>deterministic seasonal forcing</strong> and <strong>stochastic representations of rainfall</strong>, allowing for realistic simulation of climate-driven systems. Numerical simulations are implemented in <strong>R</strong> using reproducible workflows and efficient solvers.</p>
 </section>
 <section id="applications" class="level2">
 <h2 class="anchored" data-anchor-id="applications">Applications</h2>
-<p>The models I develop are applied to assess:</p>
+<p>My modeling framework is used to investigate:</p>
 <ul>
-<li>The <strong>impact of seasonal climate variability and climate change</strong> on mosquito abundance.<br>
+<li>The <strong>effects of climate variability and climate change</strong> on mosquito abundance and population structure.<br>
 </li>
-<li>The <strong>timing and intensity of mosquito activity</strong>, including peak abundance periods.<br>
+<li>The <strong>timing, duration, and intensity of mosquito activity</strong>, including shifts in peak abundance and active season length.<br>
 </li>
-<li>The <strong>potential for disease transmission</strong> under different environmental scenarios.</li>
+<li>The <strong>interaction between temperature and precipitation</strong> in shaping mosquito dynamics across regions.<br>
+</li>
+<li>The <strong>implications for vector-borne disease risk and control strategies</strong> under different environmental scenarios.</li>
 </ul>
 </section>
 <section id="analytical-tools" class="level2">
 <h2 class="anchored" data-anchor-id="analytical-tools">Analytical Tools</h2>
-<p>To evaluate the robustness of model predictions, I apply <strong>sensitivity analysis</strong> techniques such as <strong>Latin hypercube sampling (LHS)</strong> and <strong>partial rank correlation coefficients (PRCC)</strong>, alongside <strong>uncertainty analysis</strong> to quantify the effects of input variability. I also use <strong>scenario testing</strong> to explore alternative climate and intervention conditions, and employ <strong>visualization tools</strong> (e.g., <code>ggplot2</code> in R) to communicate findings. These approaches help identify the parameters most influential on population outcomes and guide targeted interventions.</p>
+<p>To assess model behavior and robustness, I apply a range of quantitative methods, including:</p>
+<ul>
+<li><strong>Global sensitivity analysis</strong> using <strong>Latin hypercube sampling (LHS)</strong> and <strong>partial rank correlation coefficients (PRCC)</strong><br>
+</li>
+<li><strong>Uncertainty analysis</strong> to quantify the impact of parameter and input variability<br>
+</li>
+<li><strong>Scenario-based simulations</strong> to evaluate alternative climate and intervention conditions<br>
+</li>
+<li><strong>Data-driven model integration</strong>, combining observed climate data with mechanistic models</li>
+</ul>
+<p>I use <strong>R</strong> extensively for simulation, statistical analysis, and visualization (e.g., <code>ggplot2</code>), and develop reproducible pipelines for managing and processing climate data.</p>
+</section>
+<section id="software-development" class="level2">
+<h2 class="anchored" data-anchor-id="software-development">Software Development</h2>
+<p>I developed the <strong>climecol</strong> R package as part of a broader effort to standardize and streamline climate-data workflows for ecological modeling. The package provides tools for <strong>importing, validating, processing, and visualizing climate data</strong>, enabling seamless integration of environmental drivers into mechanistic models.</p>
+<p>Key features include:</p>
+<ul>
+<li>Flexible import and standardization of heterogeneous climate datasets<br>
+</li>
+<li>Data validation and quality control checks<br>
+</li>
+<li>Gap detection and imputation for missing observations<br>
+</li>
+<li>Seasonal fitting and smoothing of temperature and photoperiod<br>
+</li>
+<li>Stochastic sampling of rainfall to preserve seasonal structure<br>
+</li>
+<li>Generation of climate scenarios for simulation studies</li>
+</ul>
+<p>The package is designed to promote <strong>reproducibility, transparency, and efficiency</strong> in climate-driven modeling workflows.</p>
 </section>
 <section id="code-and-data" class="level2">
 <h2 class="anchored" data-anchor-id="code-and-data">Code and Data</h2>
-<p>The code and data used in my research are openly available on GitHub:<br>
+<p>The code and data supporting my research are openly available on GitHub:<br>
 - <a href="https://github.com/jbaafi/Mosquito-Dynamics">Mosquito Dynamics Model</a><br>
 - <a href="https://github.com/jbaafi/Climate-Data-Analysis">Climate Data Analysis</a><br>
-- <a href="https://github.com/jbaafi/Sensitivity-Analysis">Sensitivity Analysis</a></p>
+- <a href="https://github.com/jbaafi/Sensitivity-Analysis">Sensitivity Analysis</a><br>
+- <a href="https://github.com/jbaafi/climecol">climecol R package on GitHub</a></p>
 
 
 </section>
