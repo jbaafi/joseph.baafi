@@ -11,7 +11,7 @@
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nPhD in Biology (Mathematical Biology), Memorial University of Newfoundland, St. John’s, NL, Canada (2020–2026)\nSupervisor: Dr. Amy Hurford\nMPhil in Applied Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana (2015–2016)\n\nMSc in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), Ghana (2014–2015)\n\nBSc in Mathematics, KNUST, Kumasi, Ghana (2009–2013)"
+    "text": "Education\n\nPhD in Mathematical Biology, Memorial University of Newfoundland, St. John’s, NL, Canada (2020–2026)\nSupervisor: Dr. Amy Hurford\nMPhil in Applied Mathematics, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana (2015–2016)\n\nMSc in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), Ghana (2014–2015)\n\nBSc in Mathematics, KNUST, Kumasi, Ghana (2009–2013)"
   },
   {
     "objectID": "cv.html#professional-experience",
@@ -147,6 +147,13 @@
     "text": "Analytical Tools\nTo assess model behavior and robustness, I apply a range of quantitative methods, including:\n\nGlobal sensitivity analysis using Latin hypercube sampling (LHS) and partial rank correlation coefficients (PRCC)\n\nUncertainty analysis to quantify the impact of parameter and input variability\n\nScenario-based simulations to evaluate alternative climate and intervention conditions\n\nData-driven model integration, combining observed climate data with mechanistic models\n\nI use R extensively for simulation, statistical analysis, and visualization (e.g., ggplot2), and develop reproducible pipelines for managing and processing climate data."
   },
   {
+    "objectID": "research.html#software-development",
+    "href": "research.html#software-development",
+    "title": "Research",
+    "section": "Software Development",
+    "text": "Software Development\nI developed the climecol R package as part of a broader effort to standardize and streamline climate-data workflows for ecological modeling. The package provides tools for importing, validating, processing, and visualizing climate data, enabling seamless integration of environmental drivers into mechanistic models.\nKey features include:\n\nFlexible import and standardization of heterogeneous climate datasets\n\nData validation and quality control checks\n\nGap detection and imputation for missing observations\n\nSeasonal fitting and smoothing of temperature and photoperiod\n\nStochastic sampling of rainfall to preserve seasonal structure\n\nGeneration of climate scenarios for simulation studies\n\nThe package is designed to promote reproducibility, transparency, and efficiency in climate-driven modeling workflows."
+  },
+  {
     "objectID": "research.html#code-and-data",
     "href": "research.html#code-and-data",
     "title": "Research",
@@ -159,12 +166,5 @@
     "title": "Joseph Baafi",
     "section": "",
     "text": "Joseph Baafi, PhD\n\n\nPostdoctoral Fellow in Mathematical Biology Climate-Driven Ecological & Infectious Disease Modeling\n\n\nDownload CV GitHub LinkedIn Email me\n\n\n\n\n\nWelcome 👋\n\n\nI am a mathematical biologist and Postdoctoral Fellow at York University, specializing in climate-driven models of mosquito population dynamics. My research integrates temperature, rainfall, and photoperiod to better understand vector ecology, overwintering dynamics, and the effects of environmental change on mosquito abundance and disease risk.\n\n\nI completed my PhD in Mathematical Biology at Memorial University of Newfoundland, where I was supervised by Dr. Amy Hurford. My doctoral work focused on developing and analyzing mechanistic models to study seasonal mosquito dynamics and their implications for vector control.\n\n\nI work at the intersection of deterministic and stochastic modeling, ecological systems analysis, and climate-data integration. I have expertise in R and LaTeX, working knowledge of Python and its scientific libraries, and experience in scientific computing with Git/GitHub and in macOS and Linux environments.\n\n\nI also have experience teaching undergraduate mathematics and R programming, and mentoring students in research, data analysis, and scientific communication.\n\n\nLearn more about my projects and findings in the Research section."
-  },
-  {
-    "objectID": "research.html#software-development",
-    "href": "research.html#software-development",
-    "title": "Research",
-    "section": "Software Development",
-    "text": "Software Development\nI developed the climecol R package as part of a broader effort to standardize and streamline climate-data workflows for ecological modeling. The package provides tools for importing, validating, processing, and visualizing climate data, enabling seamless integration of environmental drivers into mechanistic models.\nKey features include:\n\nFlexible import and standardization of heterogeneous climate datasets\n\nData validation and quality control checks\n\nGap detection and imputation for missing observations\n\nSeasonal fitting and smoothing of temperature and photoperiod\n\nStochastic sampling of rainfall to preserve seasonal structure\n\nGeneration of climate scenarios for simulation studies\n\nThe package is designed to promote reproducibility, transparency, and efficiency in climate-driven modeling workflows."
   }
 ]
